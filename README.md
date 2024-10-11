@@ -61,4 +61,4 @@ git commit -m "commit message"
 git push -u origin main
 ```
 Here's a screenshot of a successfully deployed workflow
-![Deploy successful](https://github.com/achenchi7/cloud-resume-challenge/blob/main/images/Screenshot (205).png )
+![Deploy successful](https://github.com/achenchi7/cloud-resume-challenge/blob/main/images/Screenshot%20(205).png))
