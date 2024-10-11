@@ -8,7 +8,7 @@ Tools used
 A CI/CD pipeline is a series of automated steps that help software developers/teams deliver code faster, safer and more reliably. [Source](https://circleci.com/blog/what-is-a-ci-cd-pipeline/)
 
 I have created a pipeline that automatically uploads files to my S3 bucket whenever I make a change to the source code and push the code to my Github repository. Below is a visual representation of the process.
-![pipeline visualization](https://github.com/achenchi7/cloud-resume-challenge/blob/main/images/cicd.png)
+![pipeline visualization](https://github.com/achenchi7/cloud-resume-challenge/blob/main/images/cicd2.png)
 
 ### Steps on creating a pipeline
 The pipeline file is a `.yml` file that defines the steps to be followed to update the s3 bucket if any changes in the code have been commited.
