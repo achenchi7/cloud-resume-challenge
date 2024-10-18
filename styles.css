@@ -523,6 +523,22 @@ body.dark-theme{
     animation: scroll-down 3s infinite;
 }
 
+/*========== VISITOR-COUNTER ============*/
+.visitor-counter{
+    text-align: center;
+    margin-top: 20px;
+    font-size: var(--h3-font-size);
+    color: var(--text-color);
+}
+
+.visitor-counter h3 {
+    font-weight: var(--font-medium);
+}
+
+.visitor-counter p {
+    font-size: var(--h2-font-size);
+    color: var(--first-color);
+}
 
 
 /*Animate scroll icon*/
